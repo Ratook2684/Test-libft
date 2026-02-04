@@ -15,7 +15,7 @@ gcc -Wall -Wextra -Werror main_test_libft.c -L. -lft -o test_libft
 ./test_libft
 
 # For bonus functions
-gcc -Wall -Wextra -Werror main_test_bonus.c -L. -lft -o test_bonus
+gcc -Wall -Wextra -Werror main_test_bonus_explique.c -L. -lft -o test_bonus
 
 ./test_bonus
 

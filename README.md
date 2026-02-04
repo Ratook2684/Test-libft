@@ -10,7 +10,7 @@ For EACH function, you have:
 💡 EXAMPLES: Concrete tests with expected results
 
 # For required functions
-gcc -Wall -Wextra -Werror main_test_libft.c -L. -lft -o test_libft
+gcc -Wall -Wextra -Werror libft-test.c -L. -lft -o test_libft
 
 ./test_libft
 
